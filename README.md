@@ -1,2 +1,2 @@
 # Studying Math for AI with Python
-I am implementing what I learned in my own way.
+I am independently studying and coding the concepts from the book to solidify my understanding and gain deeper insights.
